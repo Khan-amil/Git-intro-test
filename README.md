@@ -65,16 +65,21 @@ Cliquez sur le bouton "Local changes" pour aller dans l'interface pour sauver (c
 <img width="1926" alt="Fork_i6qk3YmZf3" src="https://user-images.githubusercontent.com/7414377/150687309-0112128b-8d3b-42b5-8b92-ca8c7dac6761.png">
 
 1: La liste de tous les éléments modifiés par rapport à la dernière version.
+
 2: La liste des éléments modifiés que vous voulez "commit". Selectionnez for firchier dans la section "Unstaged" et cliquez sur "Stage" pour le passer dans cette catégorie.
+
 3: Contenu du fichier selectionné, et les éventuelles différences par rapport au fichier source.
+
 4: Description du commit. Rentrez un texte décrivant les changements effectués.
+
 5: Cliquez ici pour commit vos fichiers.
 
-Vous venez d'enregistrer un commit, une nouvelle version du repository, a laquelle tout le monde pourra revenir, et récupérer ces fichiers. Pour l'instant, les modifications sont uniquement sur votre ordinateur!
+Vous venez d'enregistrer un commit, une nouvelle version du repository, a laquelle tout le monde pourra revenir, et récupérer ces fichiers. 
+Pour l'instant, les modifications sont uniquement sur votre ordinateur!
 
 5. Envoyer les données (push)
 
-Pull, puis push, merge si besoin.
+Pull (avec eventuellement merge fait automatiquement) , puis push pour envoyer les données sur le serveur.
 
 
 
