@@ -79,7 +79,22 @@ Pour l'instant, les modifications sont uniquement sur votre ordinateur!
 
 5. Envoyer les données (push)
 
-Pull (avec eventuellement merge fait automatiquement) , puis push pour envoyer les données sur le serveur.
+### Invitation au projet
+
+Pour avoir l'authorisation d'envoyer les données sur le serveur, je dois vous ajouter au projet et vous devez accepter l'invitation : 
+
+Allez sur la page https://github.com/Khan-amil/Git-intro-test/invitations et acceptez l'invitation :
+
+<img width="372" alt="chrome_MPvcOYFPNs" src="https://user-images.githubusercontent.com/7414377/150688831-75ed67bd-0c33-4590-8c06-ea445767b6a1.png">
+
+### Envoi des données
+
+Pour envoyer vos données, il faut d'abord être sur d'être synchronisé avec le projet sur le serveur, pour cela on utilise "Pull" pour récupérer les infos du serveur. Si d'autres modifications ont eu lieu, un "merge" sera fait pour avoir une version incorporant les modifications locales et distantes.
+
+Une fois le pull effectué, vous pouvez "push" pour envoyer vos donnée"s sur le serveur.
+<img width="634" alt="Fork_vbsC44F1KW" src="https://user-images.githubusercontent.com/7414377/150688920-fb9222cd-6140-4306-b55e-76d65170289d.png">
+
+Si le serveur à une version différente de ce que vous aviez lors de votre dernier "pull", Fork vous dira qu'il y a eu une erreur et vous devrez recommencer l'opération.
 
 
 
